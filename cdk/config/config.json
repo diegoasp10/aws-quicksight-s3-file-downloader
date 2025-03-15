@@ -1,0 +1,10 @@
+{
+    "prefix": "foa-prod",
+    "allowedBuckets": [
+        "foa-prod-comp-fenomenologico-bucket"
+    ],
+    "allowedOrigins": [
+        "https://us-east-1.quicksight.aws.amazon.com",
+        "https://us-east-1.quicksight.aws.amazon.com/*"
+    ]
+}
